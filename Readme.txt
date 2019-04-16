@@ -8,7 +8,7 @@
 * Phone: 406-539-8117									   *
 ********************************************************************************************
 
-![alt text](hardware/eagleUp/BatChrgv1.png "battery charger")
+![alt text](https://github.com/cydrollinger/battery-charger/tree/master/hardware/eagleUp/BatChrgv1.png "battery charger")
 
 *******NOTE*********************************************************************************
 * This design is not perfect but is provdided gratis. Please think critically while using  *
