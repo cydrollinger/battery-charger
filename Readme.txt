@@ -10,6 +10,8 @@
 
 ![alt tag](https://github.com/cydrollinger/battery-charger/blob/master/hardware/eagleUp/BatChrgv1.png)
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="256" height="256" title="Github Logo">
+
 *******NOTE*********************************************************************************
 * This design is not perfect but is provdided gratis. Please think critically while using  *
 * or redesigning for your success. Conversation is welcome, but be advised monetary compen-*
