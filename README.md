@@ -7,9 +7,7 @@
 * Address: 2023 Stadium Dr Suite 2B #210 Bozeman, MT 59715				   *
 * Phone: 406-539-8117									   *
 ********************************************************************************************
-<p>
-	<img src="/hardware/eagleUp/BatChrgv1.png" width="220" height="240" />
-</p>
+
 *******NOTE*********************************************************************************
 * This design is not perfect but is provdided gratis. Please think critically while using  *
 * or redesigning for your success. Conversation is welcome, but be advised monetary compen-*
