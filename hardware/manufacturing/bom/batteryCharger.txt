@@ -1,0 +1,30 @@
+Partlist exported from C:/Users/Cy/Documents/eagle/Battery Charger/batteryCharger.sch at 5/5/2018 11:11 AM
+
+Qty Value                Device               Package      Parts                                          Description                                         
+BATTERY
+4 Holder		36-1068-ND	      36-1068-ND   U$1, U$2, U$3, U$4                                                                                 
+CAPCITOR
+4   0.1uF                C-ERC0402            C0402        C3, C4, C7, C10                                                                                    
+8   10uF                 C-ER                 C0805        C1, C2, C5, C6, C8, C9, C11, C12                                                                   
+CONNECTOR
+1   MICRO-USB-ZX62R-B-5P MICRO-USB-ZX62R-B-5P ZX62R-B-5P   U$5                                            Hirose Micro USB Connector                          
+1   MINI-USB-           USB-UX60A-MB-5ST      UX60A-MB-5ST X1                                             Hirose MINI USB Connector                           
+4   455-1611-ND           455-1611-ND           455-1611-ND   X2, X3, X4, X5                              2 Pin - 2mm Dual Row Single Wafer, Vertical T/H HDR 
+1   PJ-002A_SMT           PJ-002A_SMT           PJ-002A_SMT  U$6                                                                                                                     
+	
+LED
+8                        LEDCHIP-LED0603      CHIP-LED0603 LED1, LED2, LED3, LED4, LED5, LED6, LED7, LED8 LED                                                 
+IC
+4   AAT3693              AAT3693              AAT3693      IC1, IC2, IC3, IC4                                                                                 
+RESITOR
+8   1k5                  R-ER-TINYR402        R0402        R3, R4, R9, R10, R15, R16, R21, R22
+4   6.65-53.6k           R-ER-TINYR402        R0402        R2, R7, R13, R19 (N.C.)                                                                                   
+4   10k                  R-ER-TINYR402        R0402        R5, R12, R18, R24                                                               
+4   10k                  R-ER-TINYR402        R0402        R6, R11, R17, R23                                                               
+1   16.5k                R-ER-TINYR402        R0402        R1(100mA)
+1   8k06						   R8(200mA)
+1   4k02						   R14(400mA)
+1   1k87						   R20(800mA)                                                                                   
+
+
+
