@@ -1,8 +1,9 @@
 
+![ER_LOGO](/docs/github.png)
 >Electronic Realization L.L.C.								   
 >Design: Battery charger 4 Li coin cells 24.5mm, maximum 800 mA charge current		   
 >Engineer: Cy Drollinger								   
->Date: 5/18						![ER_LOGO](/docs/github.png)						           
+>Date: 5/18												           
 >Email: cy@elec-real.com								   
 >Address: 2023 Stadium Dr Suite 2B #210 Bozeman, MT 59715				   
 >Phone: 406-539-8117	
