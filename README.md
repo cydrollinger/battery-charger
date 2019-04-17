@@ -1,7 +1,7 @@
 
 ![ER_LOGO](/docs/github.png)
 >Electronic Realization L.L.C.								   
->Design: Battery charger 4 Li coin cells 24.5mm, maximum 800 mA charge current		   
+>Design: Battery charger 4 Li cells		   
 >Engineer: Cy Drollinger								   
 >Date: 5/18												           
 >Email: cy@elec-real.com								   
