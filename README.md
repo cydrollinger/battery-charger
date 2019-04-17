@@ -15,6 +15,10 @@
 	 
 ![Battery_charger](/hardware/eagleUp/BatChrgv1.png)
 
+**PURPOSE:**
+This is a hardware design that is capable of charging 4 li ion cells. The design employs four different circuits
+and charge currents: 100mA, 200mA, 400mA, and 800mA. The design files were created with Eagle
+Cadsoft v7.7 as a two layer board. Free Eagle version would be able to import these files. 
 
 >**File Arcitecture with a terse description**
 
