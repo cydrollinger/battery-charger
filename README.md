@@ -9,9 +9,9 @@
 >Phone: 406-539-8117	
 
 
- This design is not perfect but is provdided gratis. Please think critically while using 
- or redesigning for your success. Conversation is welcome, but be advised monetary compen-
- sation is required for work toward this design for your success.			   
+ This design is not perfect but is provdided gratis. Please think critically while utilizing 
+ and or redesigning for your success. Conversation is welcome, but be advised monetary 
+ compensation is required for work toward this design for your success.			   
 	 
 *******************************************
 *File Arcitecture with a terse description*
