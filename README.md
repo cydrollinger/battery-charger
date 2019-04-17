@@ -13,7 +13,7 @@
  and or redesigning for your success. Conversation is welcome, but be advised ER is a professional 
  design house and monetary compensation is required for work toward this design enabling your success.			   
 	 
-![ER_LOGO](/hardware/eagleUp/BatVhrgv1.png)
+![Battery_charger](/hardware/eagleUp/BatChrgv1.png)
 
 *******************************************
 *File Arcitecture with a terse description*
