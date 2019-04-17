@@ -15,21 +15,21 @@
 	 
 ![Battery_charger](/hardware/eagleUp/BatChrgv1.png)
 
->*******************************************
->*File Arcitecture with a terse description*
->*******************************************
 
-FOLDERS:
-	docs		: datasheets charging IC and battery holder
-	hardware	: eagle cadsoft(v7.7) hardware design files 	
-		eagleup		: 3D files 
-		library		: eagle part files 
-		manufacturing	: files required to produce the desing
-			bom	: files created to order the parts
-					batteryCharger.txt	: 
-					batteryv1.1.csv		: digikey order
-					hundredUnits.txt	
-			gerber	: files generated to manufacture the board
-				: https://oshpark.com/shared_projects/4os8OxLZ
-	Readme.txt	: this file
+>**File Arcitecture with a terse description**
+
+
+*FOLDERS:
+	*docs		: datasheets charging IC and battery holder
+	*hardware	: eagle cadsoft(v7.7) hardware design files 	
+		*eagleup		: 3D files 
+		*library		: eagle part files 
+		*manufacturing	: files required to produce the desing
+			*bom	: files created to order the parts
+					*batteryCharger.txt	: 
+					*batteryv1.1.csv		: digikey order
+					*hundredUnits.txt	
+			*gerber	: files generated to manufacture the board
+				*: https://oshpark.com/shared_projects/4os8OxLZ
+	*Readme.txt	: this file
 	
