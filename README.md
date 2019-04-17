@@ -8,11 +8,13 @@
 >Address: 2023 Stadium Dr Suite 2B #210 Bozeman, MT 59715				   
 >Phone: 406-539-8117	
 
-**NOTE**
+**NOTE:**
  This design is not perfect but is provdided gratis. Please think critically while utilizing 
  and or redesigning for your success. Conversation is welcome, but be advised ER is a professional 
  design house and monetary compensation is required for work toward this design enabling your success.			   
 	 
+![ER_LOGO](/hardware/eagleUp/BatVhrgv1.png)
+
 *******************************************
 *File Arcitecture with a terse description*
 *******************************************
