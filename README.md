@@ -31,5 +31,5 @@
 					* hundredUnits.txt	
 			* gerber	: files generated to manufacture the board
 				* : https://oshpark.com/shared_projects/4os8OxLZ
-	* Readme.txt	: this file
+	* readme.md	: this file
 	
