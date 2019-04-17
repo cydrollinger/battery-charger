@@ -34,6 +34,6 @@ Cadsoft v7.7 as a two layer board. Free Eagle version would be able to import th
 					* batteryv1.1.csv	: digikey order
 					* hundredUnits.txt	
 			* gerber	: files generated to manufacture the board
-				* : https://oshpark.com/shared_projects/4os8OxLZ
+			* https://oshpark.com/shared_projects/4os8OxLZ
 	* readme.md	: this file
 	
