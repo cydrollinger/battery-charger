@@ -6,7 +6,7 @@
 >Email: cy@elec-real.com								   
 >Address: 2023 Stadium Dr Suite 2B #210 Bozeman, MT 59715				   
 >Phone: 406-539-8117	
-![ER_LOGO](/docs/gihu.png width=100, height=100)
+![ER_LOGO](/docs/gihu.png = 100x100)
 *******NOTE*********************************************************************************
 * This design is not perfect but is provdided gratis. Please think critically while using  *
 * or redesigning for your success. Conversation is welcome, but be advised monetary compen-*
