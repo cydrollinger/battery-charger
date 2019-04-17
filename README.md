@@ -9,8 +9,8 @@
 >Phone: 406-539-8117	
 
 **NOTE:**
- This design is not perfect but is provdided gratis. Please think critically while utilizing 
- and or redesigning for your success. Conversation is welcome, but be advised ER is a professional 
+ This design has been tested and functions as specified. The design is provdided gratis, but, please 
+ think critically while utilizing and or redesigning for your success. Conversation is welcome, but be advised ER is a professional 
  design house and monetary compensation is required for work toward this design enabling your success.			   
 	 
 ![Battery_charger](/hardware/eagleUp/BatChrgv1.png)
