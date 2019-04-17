@@ -24,10 +24,10 @@
 	* hardware	: eagle cadsoft(v7.7) hardware design files 	
 		* eagleup		: 3D files 
 		* library		: eagle part files 
-		* manufacturing	: files required to produce the desing
+		* manufacturing	: files required to produce the design
 			* bom	: files created to order the parts
 					* batteryCharger.txt	: 
-					* batteryv1.1.csv		: digikey order
+					* batteryv1.1.csv	: digikey order
 					* hundredUnits.txt	
 			* gerber	: files generated to manufacture the board
 				* : https://oshpark.com/shared_projects/4os8OxLZ
