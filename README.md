@@ -15,9 +15,9 @@
 	 
 ![Battery_charger](/hardware/eagleUp/BatChrgv1.png)
 
-*******************************************
-*File Arcitecture with a terse description*
-*******************************************
+>*******************************************
+>*File Arcitecture with a terse description*
+>*******************************************
 
 FOLDERS:
 	docs		: datasheets charging IC and battery holder
