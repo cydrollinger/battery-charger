@@ -1,4 +1,4 @@
-<a href="https://elec-real.com"><img src="/docs/github.png" ></img></a>
+<a href="https://elec-real.com/case-studies/battery-charger/"><img src="/docs/github.png" ></img></a>
 
 >Electronic Realization L.L.C.								   
 >Design: Battery charger 4 Li cells		   
